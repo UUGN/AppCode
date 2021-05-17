@@ -14,5 +14,6 @@
     <color name="custom_black">#170B23</color>
     <color name="custom_brown">#4C3741</color>
     <color name="custom_blue">#324897</color>
-    <color name="custom_green">#4A9C97</color>
+    <color name="custom_blue_gravity">#80324897</color>
+    <color name="custom_green">#804A9C97</color>
 </resources>
