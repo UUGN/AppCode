@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckMe</string>
+
+    <!-- BottomNavigation -->
+    <string name="bottomNavigationHome">홈</string>
+    <string name="bottomNavigationMenu1">메뉴1</string>
+    <string name="bottomNavigationMenu2">메뉴2</string>
+    <string name="bottomNavigationMenu3">메뉴3</string>
+</resources>
