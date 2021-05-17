@@ -1,5 +1,4 @@
-# AppCode
-⚒ Android Developer Code With Kotlin ⚒
+# 개발 일지
 
 ## 2021.05.17
 - 개발 초기 세팅
